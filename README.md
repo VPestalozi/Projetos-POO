@@ -31,7 +31,7 @@ Os arquivos estão organizados por tipo de atividade:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   https://github.com/VPestalozi/Projetos-POO.git
 
 2. Abra o projeto no IntelliJ IDEA.
 
